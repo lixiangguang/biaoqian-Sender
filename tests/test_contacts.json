@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "name": "测试联系人1",
+      "wxid": "test_wxid_1",
+      "tags": ["测试", "朋友"]
+    },
+    {
+      "name": "测试联系人2",
+      "wxid": "test_wxid_2",
+      "tags": ["测试", "同事"]
+    }
+  ]
+}
